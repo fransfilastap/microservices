@@ -1,0 +1,82 @@
+2022-11-02 13:02:26 [main] INFO  d.f.m.t.Twitter2KafkaServiceApplication - Starting Twitter2KafkaServiceApplication using Java 18.0.2 on MacBook-Air-Frans.local with PID 19607 (/Users/finnarc/IdeaProjects/microservice/twitter2kafka-service/target/classes started by finnarc in /Users/finnarc/IdeaProjects/microservice)
+2022-11-02 13:02:26 [main] INFO  d.f.m.t.Twitter2KafkaServiceApplication - No active profile set, falling back to 1 default profile: "default"
+2022-11-02 13:02:26 [main] INFO  d.f.m.t.Twitter2KafkaServiceApplication - Started Twitter2KafkaServiceApplication in 0.351 seconds (JVM running for 0.615)
+2022-11-02 13:02:26 [main] INFO  d.f.m.t.Twitter2KafkaServiceApplication - Application Starts...
+2022-11-02 13:02:26 [main] INFO  d.f.m.t.Twitter2KafkaServiceApplication - [Java, Microservices, Spring, Kafka, Elasticsearch, Go, Golang, Laravel]
+2022-11-02 13:02:26 [main] INFO  d.f.m.t.r.impl.MockKafkaStreamRunner - Starting mock filtering twitter streams for keywords [Java, Microservices, Spring, Kafka, Elasticsearch, Go, Golang, Laravel]
+2022-11-02 13:02:26 [pool-1-thread-1] INFO  d.f.m.t.l.TwitterKafkaStatusListener - Twitter status with text pulvinar purus Lorem sed magna malesuada sed Laravel Lorem sit adipiscing consecteteur Fusce Fusce
+2022-11-02 13:02:36 [pool-1-thread-1] INFO  d.f.m.t.l.TwitterKafkaStatusListener - Twitter status with text adipiscing congue sed massa consecteteur dolor elit Golang malesuada malesuada libero posuere amet porttitor
+2022-11-02 13:02:46 [pool-1-thread-1] INFO  d.f.m.t.l.TwitterKafkaStatusListener - Twitter status with text sed Fusce consecteteur malesuada malesuada elit malesuada Laravel malesuada Fusce pulvinar malesuada lectus
+2022-11-02 13:02:56 [pool-1-thread-1] INFO  d.f.m.t.l.TwitterKafkaStatusListener - Twitter status with text sit sit pulvinar Golang purus magna
+2022-11-02 13:03:06 [pool-1-thread-1] INFO  d.f.m.t.l.TwitterKafkaStatusListener - Twitter status with text sit massa pulvinar pulvinar Microservices elit purus
+2022-11-02 13:03:16 [pool-1-thread-1] INFO  d.f.m.t.l.TwitterKafkaStatusListener - Twitter status with text dolor ultricies porttitor massa elit lectus Laravel congue malesuada malesuada magna consecteteur
+2022-11-02 13:03:26 [pool-1-thread-1] INFO  d.f.m.t.l.TwitterKafkaStatusListener - Twitter status with text magna congue congue elit malesuada Laravel dolor Lorem amet consecteteur
+2022-11-02 13:03:36 [pool-1-thread-1] INFO  d.f.m.t.l.TwitterKafkaStatusListener - Twitter status with text Fusce ipsum Fusce purus Spring posuere posuere porttitor
+2022-11-02 13:03:46 [pool-1-thread-1] INFO  d.f.m.t.l.TwitterKafkaStatusListener - Twitter status with text dolor ipsum sed massa porttitor Fusce massa Java malesuada lectus elit amet malesuada posuere
+2022-11-02 13:03:56 [pool-1-thread-1] INFO  d.f.m.t.l.TwitterKafkaStatusListener - Twitter status with text dolor dolor Fusce purus adipiscing Kafka ultricies massa ultricies
+2022-11-02 13:04:06 [pool-1-thread-1] INFO  d.f.m.t.l.TwitterKafkaStatusListener - Twitter status with text posuere ultricies posuere Java Fusce ultricies
+2022-11-02 13:04:16 [pool-1-thread-1] INFO  d.f.m.t.l.TwitterKafkaStatusListener - Twitter status with text pulvinar malesuada Maecenas magna Go consecteteur elit pulvinar
+2022-11-02 13:04:26 [pool-1-thread-1] INFO  d.f.m.t.l.TwitterKafkaStatusListener - Twitter status with text posuere Maecenas Maecenas porttitor amet malesuada massa Laravel elit malesuada ultricies congue malesuada
+2022-11-02 13:04:36 [pool-1-thread-1] INFO  d.f.m.t.l.TwitterKafkaStatusListener - Twitter status with text Maecenas consecteteur porttitor amet adipiscing adipiscing consecteteur Spring sed malesuada ipsum ultricies consecteteur consecteteur
+2022-11-02 13:04:46 [pool-1-thread-1] INFO  d.f.m.t.l.TwitterKafkaStatusListener - Twitter status with text Maecenas Lorem massa consecteteur elit Maecenas elit adipiscing Go massa elit congue sed Maecenas ultricies
+2022-11-02 13:04:56 [pool-1-thread-1] INFO  d.f.m.t.l.TwitterKafkaStatusListener - Twitter status with text ultricies adipiscing congue purus ultricies malesuada ipsum lectus Elasticsearch posuere pulvinar adipiscing elit sed Fusce Lorem
+2022-11-02 13:05:06 [pool-1-thread-1] INFO  d.f.m.t.l.TwitterKafkaStatusListener - Twitter status with text lectus sed lectus lectus congue massa ipsum Golang malesuada malesuada magna amet massa
+2022-11-02 13:05:16 [pool-1-thread-1] INFO  d.f.m.t.l.TwitterKafkaStatusListener - Twitter status with text amet porttitor Fusce sit Maecenas Golang Lorem ipsum purus
+2022-11-02 13:05:26 [pool-1-thread-1] INFO  d.f.m.t.l.TwitterKafkaStatusListener - Twitter status with text magna posuere pulvinar consecteteur consecteteur magna Java Lorem purus purus sit
+2022-11-02 13:05:36 [pool-1-thread-1] INFO  d.f.m.t.l.TwitterKafkaStatusListener - Twitter status with text sit lectus sit porttitor ultricies dolor elit Lorem Microservices sed posuere adipiscing amet amet malesuada sit
+2022-11-02 13:05:46 [pool-1-thread-1] INFO  d.f.m.t.l.TwitterKafkaStatusListener - Twitter status with text sed pulvinar porttitor congue elit ultricies porttitor Fusce Kafka malesuada sit massa dolor magna elit
+2022-11-02 13:05:56 [pool-1-thread-1] INFO  d.f.m.t.l.TwitterKafkaStatusListener - Twitter status with text amet dolor congue adipiscing Kafka posuere Maecenas
+2022-11-02 13:06:06 [pool-1-thread-1] INFO  d.f.m.t.l.TwitterKafkaStatusListener - Twitter status with text congue ultricies posuere sed Maecenas Microservices consecteteur Fusce ultricies Fusce
+2022-11-02 13:06:16 [pool-1-thread-1] INFO  d.f.m.t.l.TwitterKafkaStatusListener - Twitter status with text pulvinar magna malesuada congue ipsum Spring adipiscing Fusce congue
+2022-11-02 13:06:26 [pool-1-thread-1] INFO  d.f.m.t.l.TwitterKafkaStatusListener - Twitter status with text massa sed Fusce ipsum Go Lorem amet dolor
+2022-11-02 13:06:36 [pool-1-thread-1] INFO  d.f.m.t.l.TwitterKafkaStatusListener - Twitter status with text malesuada consecteteur massa adipiscing massa Golang magna elit Lorem pulvinar
+2022-11-02 13:06:46 [pool-1-thread-1] INFO  d.f.m.t.l.TwitterKafkaStatusListener - Twitter status with text Fusce malesuada congue ultricies Fusce porttitor libero Laravel amet libero elit Lorem congue purus
+2022-11-02 13:06:56 [pool-1-thread-1] INFO  d.f.m.t.l.TwitterKafkaStatusListener - Twitter status with text pulvinar libero purus sed Fusce Elasticsearch lectus massa sit massa
+2022-11-02 13:07:06 [pool-1-thread-1] INFO  d.f.m.t.l.TwitterKafkaStatusListener - Twitter status with text consecteteur libero purus posuere Microservices libero Lorem Maecenas
+2022-11-02 13:07:16 [pool-1-thread-1] INFO  d.f.m.t.l.TwitterKafkaStatusListener - Twitter status with text dolor libero dolor malesuada consecteteur lectus sit Maecenas Go adipiscing massa elit massa malesuada lectus
+2022-11-02 13:07:26 [pool-1-thread-1] INFO  d.f.m.t.l.TwitterKafkaStatusListener - Twitter status with text dolor amet Lorem consecteteur congue massa purus Kafka magna libero consecteteur ultricies sed
+2022-11-02 13:07:36 [pool-1-thread-1] INFO  d.f.m.t.l.TwitterKafkaStatusListener - Twitter status with text ipsum malesuada purus ipsum pulvinar Laravel Lorem Lorem libero consecteteur
+2022-11-02 13:07:46 [pool-1-thread-1] INFO  d.f.m.t.l.TwitterKafkaStatusListener - Twitter status with text amet sit libero lectus dolor sit Maecenas ipsum Java lectus pulvinar massa amet lectus magna
+2022-11-02 13:07:56 [pool-1-thread-1] INFO  d.f.m.t.l.TwitterKafkaStatusListener - Twitter status with text consecteteur pulvinar dolor Lorem Fusce porttitor Golang massa ultricies ultricies pulvinar dolor
+2022-11-02 13:08:06 [pool-1-thread-1] INFO  d.f.m.t.l.TwitterKafkaStatusListener - Twitter status with text porttitor magna posuere Lorem posuere amet porttitor Microservices Lorem libero malesuada libero massa
+2022-11-02 13:08:16 [pool-1-thread-1] INFO  d.f.m.t.l.TwitterKafkaStatusListener - Twitter status with text malesuada Lorem dolor Fusce elit massa massa Java Lorem Maecenas adipiscing congue magna congue
+2022-11-02 13:08:26 [pool-1-thread-1] INFO  d.f.m.t.l.TwitterKafkaStatusListener - Twitter status with text adipiscing massa Lorem massa consecteteur dolor Golang lectus lectus sed sit
+2022-11-02 13:08:36 [pool-1-thread-1] INFO  d.f.m.t.l.TwitterKafkaStatusListener - Twitter status with text porttitor massa consecteteur porttitor sed Kafka pulvinar Lorem congue Fusce
+2022-11-02 13:08:46 [pool-1-thread-1] INFO  d.f.m.t.l.TwitterKafkaStatusListener - Twitter status with text dolor sit elit adipiscing Maecenas Lorem Golang malesuada Maecenas sit ipsum malesuada
+2022-11-02 13:08:56 [pool-1-thread-1] INFO  d.f.m.t.l.TwitterKafkaStatusListener - Twitter status with text pulvinar sit ipsum lectus lectus adipiscing Microservices ipsum magna elit purus lectus
+2022-11-02 13:09:06 [pool-1-thread-1] INFO  d.f.m.t.l.TwitterKafkaStatusListener - Twitter status with text Maecenas Fusce Maecenas dolor Lorem consecteteur amet sed Laravel sed Lorem Lorem elit dolor posuere pulvinar
+2022-11-02 13:09:16 [pool-1-thread-1] INFO  d.f.m.t.l.TwitterKafkaStatusListener - Twitter status with text purus elit Maecenas dolor amet sit Spring massa purus adipiscing Fusce
+2022-11-02 13:09:26 [pool-1-thread-1] INFO  d.f.m.t.l.TwitterKafkaStatusListener - Twitter status with text sed purus magna Microservices adipiscing Maecenas
+2022-11-02 13:09:36 [pool-1-thread-1] INFO  d.f.m.t.l.TwitterKafkaStatusListener - Twitter status with text Fusce Fusce Lorem pulvinar pulvinar Kafka Fusce Maecenas purus
+2022-11-02 13:09:46 [pool-1-thread-1] INFO  d.f.m.t.l.TwitterKafkaStatusListener - Twitter status with text ultricies ultricies Fusce Golang congue Fusce
+2022-11-02 13:09:56 [pool-1-thread-1] INFO  d.f.m.t.l.TwitterKafkaStatusListener - Twitter status with text elit Fusce adipiscing adipiscing Lorem congue sed posuere Golang consecteteur massa ultricies lectus pulvinar posuere
+2022-11-02 13:10:06 [pool-1-thread-1] INFO  d.f.m.t.l.TwitterKafkaStatusListener - Twitter status with text purus magna malesuada pulvinar pulvinar malesuada amet Maecenas Microservices congue malesuada magna dolor magna purus
+2022-11-02 13:10:16 [pool-1-thread-1] INFO  d.f.m.t.l.TwitterKafkaStatusListener - Twitter status with text lectus magna Lorem Microservices malesuada ultricies
+2022-11-02 13:10:26 [pool-1-thread-1] INFO  d.f.m.t.l.TwitterKafkaStatusListener - Twitter status with text ultricies dolor amet consecteteur magna adipiscing Maecenas ipsum Java magna dolor congue massa Lorem elit
+2022-11-02 13:10:36 [pool-1-thread-1] INFO  d.f.m.t.l.TwitterKafkaStatusListener - Twitter status with text Lorem purus magna dolor magna Go porttitor sed elit elit
+2022-11-02 13:10:46 [pool-1-thread-1] INFO  d.f.m.t.l.TwitterKafkaStatusListener - Twitter status with text massa posuere ipsum ipsum libero malesuada lectus Lorem Elasticsearch dolor posuere ipsum sit consecteteur ultricies purus
+2022-11-02 13:10:56 [pool-1-thread-1] INFO  d.f.m.t.l.TwitterKafkaStatusListener - Twitter status with text Maecenas elit libero Go massa ultricies
+2022-11-02 13:11:06 [pool-1-thread-1] INFO  d.f.m.t.l.TwitterKafkaStatusListener - Twitter status with text sed Fusce libero adipiscing sit purus ipsum Elasticsearch magna purus ipsum Lorem congue
+2022-11-02 13:11:16 [pool-1-thread-1] INFO  d.f.m.t.l.TwitterKafkaStatusListener - Twitter status with text Maecenas magna malesuada consecteteur amet posuere sed Go elit pulvinar sit consecteteur massa
+2022-11-02 13:11:26 [pool-1-thread-1] INFO  d.f.m.t.l.TwitterKafkaStatusListener - Twitter status with text Maecenas porttitor ultricies Kafka libero massa
+2022-11-02 13:11:36 [pool-1-thread-1] INFO  d.f.m.t.l.TwitterKafkaStatusListener - Twitter status with text posuere posuere pulvinar sed malesuada ipsum Go dolor malesuada pulvinar Fusce adipiscing
+2022-11-02 13:11:46 [pool-1-thread-1] INFO  d.f.m.t.l.TwitterKafkaStatusListener - Twitter status with text magna elit sit dolor amet ipsum ultricies Elasticsearch magna Fusce posuere elit pulvinar ultricies
+2022-11-02 13:11:56 [pool-1-thread-1] INFO  d.f.m.t.l.TwitterKafkaStatusListener - Twitter status with text ultricies sed sit ipsum massa elit dolor Elasticsearch dolor consecteteur dolor ipsum ultricies purus
+2022-11-02 13:12:06 [pool-1-thread-1] INFO  d.f.m.t.l.TwitterKafkaStatusListener - Twitter status with text malesuada massa pulvinar libero elit elit Golang elit lectus Maecenas Lorem
+2022-11-02 13:12:16 [pool-1-thread-1] INFO  d.f.m.t.l.TwitterKafkaStatusListener - Twitter status with text massa magna ultricies lectus magna Maecenas Kafka sit malesuada Lorem Maecenas
+2022-11-02 13:12:26 [pool-1-thread-1] INFO  d.f.m.t.l.TwitterKafkaStatusListener - Twitter status with text posuere massa purus amet congue Fusce adipiscing Laravel dolor Maecenas sit posuere elit
+2022-11-02 13:12:36 [pool-1-thread-1] INFO  d.f.m.t.l.TwitterKafkaStatusListener - Twitter status with text elit sit Maecenas magna Lorem sed Java sit porttitor ipsum congue Fusce
+2022-11-02 13:12:46 [pool-1-thread-1] INFO  d.f.m.t.l.TwitterKafkaStatusListener - Twitter status with text Maecenas malesuada malesuada dolor Golang malesuada ipsum sit
+2022-11-02 13:12:56 [pool-1-thread-1] INFO  d.f.m.t.l.TwitterKafkaStatusListener - Twitter status with text ultricies Maecenas lectus sed amet massa Lorem Java ultricies posuere posuere sed porttitor dolor
+2022-11-02 13:13:06 [pool-1-thread-1] INFO  d.f.m.t.l.TwitterKafkaStatusListener - Twitter status with text Fusce amet libero consecteteur posuere libero malesuada Microservices dolor sed pulvinar consecteteur Maecenas Maecenas
+2022-11-02 13:13:16 [pool-1-thread-1] INFO  d.f.m.t.l.TwitterKafkaStatusListener - Twitter status with text dolor massa massa ipsum lectus Fusce sit Go ultricies porttitor porttitor Fusce Maecenas Lorem
+2022-11-02 13:13:26 [pool-1-thread-1] INFO  d.f.m.t.l.TwitterKafkaStatusListener - Twitter status with text amet Maecenas Maecenas congue dolor Maecenas elit Kafka purus Fusce porttitor elit adipiscing
+2022-11-02 13:13:36 [pool-1-thread-1] INFO  d.f.m.t.l.TwitterKafkaStatusListener - Twitter status with text libero Fusce ultricies Maecenas congue sed Go posuere libero Lorem massa massa
+2022-11-02 13:13:46 [pool-1-thread-1] INFO  d.f.m.t.l.TwitterKafkaStatusListener - Twitter status with text pulvinar Maecenas pulvinar porttitor massa massa libero Laravel purus malesuada amet Lorem porttitor libero
+2022-11-02 13:13:56 [pool-1-thread-1] INFO  d.f.m.t.l.TwitterKafkaStatusListener - Twitter status with text dolor consecteteur purus congue Java amet Maecenas amet
+2022-11-02 13:14:06 [pool-1-thread-1] INFO  d.f.m.t.l.TwitterKafkaStatusListener - Twitter status with text sed Lorem libero sed libero Microservices purus dolor elit
+2022-11-02 13:14:16 [pool-1-thread-1] INFO  d.f.m.t.l.TwitterKafkaStatusListener - Twitter status with text massa libero libero pulvinar elit massa ipsum malesuada Golang Fusce pulvinar congue pulvinar libero dolor Lorem
+2022-11-02 13:14:26 [pool-1-thread-1] INFO  d.f.m.t.l.TwitterKafkaStatusListener - Twitter status with text porttitor amet lectus ipsum ultricies sed sed Golang lectus sit dolor sit dolor
+2022-11-02 13:14:36 [pool-1-thread-1] INFO  d.f.m.t.l.TwitterKafkaStatusListener - Twitter status with text posuere sit posuere porttitor consecteteur amet Elasticsearch posuere Fusce ipsum Maecenas Maecenas
+2022-11-02 13:14:46 [pool-1-thread-1] INFO  d.f.m.t.l.TwitterKafkaStatusListener - Twitter status with text amet massa adipiscing purus porttitor pulvinar Kafka adipiscing congue pulvinar Lorem dolor
+2022-11-02 13:14:56 [pool-1-thread-1] INFO  d.f.m.t.l.TwitterKafkaStatusListener - Twitter status with text pulvinar pulvinar sed ultricies magna Golang posuere magna massa massa
